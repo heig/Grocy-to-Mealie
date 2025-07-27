@@ -59,9 +59,18 @@ HTML;
 
     $lis = $dom->getElementsByTagName('li');
     $instr = [];
-
+    // include <li> content 
     foreach ($lis as $li) {
         $instr[] = trim($li->textContent);
+    }
+
+    // include <p> content if not empty
+    $ps = $dom->getElementsByTagName('p');
+    foreach ($ps as $p) {
+        $text = trim($p->textContent);
+        if (!empty($text)) {
+            $instr[] = $text;
+        }
     }
 
     return $instr;
