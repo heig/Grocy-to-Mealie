@@ -2,7 +2,7 @@
 
 This is a helper-script that helps you to move recipes from grocy to meali. 
 It will get all your recipes from grocy and import them via the JSON Import to Mealie. This will not migrate your pictures. 
-All List-Items and Paragraphs in the Description of a grocy recipe will be a instruction-step in Mealie. (Since I have some ingridens in LI I need to migrate those to ingridents later, but if you have only instructions it will work finde :) 
+All List-Items and Paragraphs in the Description of a grocy recipe will be a instruction-step in Mealie. (Since I have some ingridens in LI I need to migrate those to ingridents later, but if you have only instructions it will work fine :) )
 
 > [!CAUTION]
 > This is meant to run only once! It will always just import all recipes! No douplicate-checks. 
