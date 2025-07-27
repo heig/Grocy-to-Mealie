@@ -43,6 +43,6 @@ Rezept (Schema.org JSON) erfolgreich erstellt.
 -------
 ```
 
-#Kudos
+# Kudos
 
 as always, many thanks to the creators of ([grocy](https://grocy.info/de)) and [mealie](https://docs.mealie.io/)!
