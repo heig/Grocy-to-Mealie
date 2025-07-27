@@ -42,3 +42,7 @@ Zubereitung: <ul><li>Zwiebeln</li><li>Knoblauch</li><li>Brühe</li><li>Milch</li
 Rezept (Schema.org JSON) erfolgreich erstellt.
 -------
 ```
+
+#Kudos
+
+as always, many thanks to the creators of ([grocy](https://grocy.info/de)) and [mealie](https://docs.mealie.io/)!
